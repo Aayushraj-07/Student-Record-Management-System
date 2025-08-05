@@ -14,13 +14,21 @@ A Java CLI-based CRUD application to manage student records. This project allows
 **Project Structure**
 
 StudentManagementSystem/
+
  └── src/
+ 
       ├── Main.java
+      
       ├── model/
+      
       │     └── Student.java
+      
       ├── service/
+      
       │     └── StudentService.java
+      
       └── util/
+      
             └── LoggerUtil.java
 
 
